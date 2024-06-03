@@ -5,4 +5,5 @@ Code in:
 
 - ./preparation - introductory work in Python, Bash, etc.
 - ./week1 - object oriented programming and functional programming
+- ./week3 - testing
 
